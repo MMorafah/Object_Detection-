@@ -49,6 +49,7 @@ A step-by step Implementaion: https://www.analyticsvidhya.com/blog/2018/10/a-ste
 
 Faster R-CNN for Open Images Dataset by Keras (Highly Highly Recommended): https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras and https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a \ 
 
-
+Faster RCNN/ Mask-RCNN on COCO TF (Highly Recommended): https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN \ 
+Py-Faster RCNN (Higly Recommended): https://github.com/rbgirshick/py-faster-rcnn/tree/master/lib/rpn \ 
 
 
