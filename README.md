@@ -34,6 +34,7 @@ A deeper look at how Faster-RCNN works: https://medium.com/@whatdhack/a-deeper-l
 Faster R-CNN: Down the rabbit hole of modern object detection: https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/ <br /> 
 
 An overview of deep-learning based object-detection algorithms: https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93 <br />
+How to Calculate & Use the AUC Score: https://towardsdatascience.com/how-to-calculate-use-the-auc-score-1fc85c9a8430 <br /> 
 
 ## Code
 
