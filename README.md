@@ -57,6 +57,16 @@ Py-Faster RCNN (Higly Recommended): https://github.com/rbgirshick/py-faster-rcnn
 Faster R-CNN: https://github.com/jwyang/faster-rcnn.pytorch <br /> 
 Simple Faster R-CNN Pytorch: https://github.com/chenyuntc/simple-faster-rcnn-pytorch <br /> 
 Py-Faster R-CNN (Caffe): https://github.com/rbgirshick/py-faster-rcnn <br /> 
+Very good simple Implementation: https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras/blob/master/frcnn_train_vgg.ipynb <br /> 
+Very Very Very Good and Perfect Implementation of Faster R-CNN: https://github.com/tryolabs/object-detection-workshop/blob/master/Implementing%20Faster%20R-CNN.ipynb <br /> 
+
+Tensorpack-- Faster R-CNN / Mask R-CNN on COCO: https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN <br /> 
+Detectron2: https://github.com/facebookresearch/detectron2 <br /> 
+mmdetection3D: https://mmdetection3d.readthedocs.io/en/latest/install.html <br /> 
+mmcv: https://github.com/open-mmlab/mmcv <br /> 
+mask-rcnn benchmark: https://github.com/facebookresearch/maskrcnn-benchmark <br /> 
+mmdetection: https://github.com/open-mmlab/mmdetection <br /> 
+Image Object Detection — TensorFlow 2 Object Detection API: https://medium.com/swlh/image-object-detection-tensorflow-2-object-detection-api-af7244d4c34e <br /> 
 
 
 
