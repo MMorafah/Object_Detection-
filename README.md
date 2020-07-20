@@ -33,6 +33,8 @@ Datacamp, overall overview: https://www.datacamp.com/community/tutorials/object-
 A deeper look at how Faster-RCNN works: https://medium.com/@whatdhack/a-deeper-look-at-how-faster-rcnn-works-84081284e1cd <br /> 
 Faster R-CNN: Down the rabbit hole of modern object detection: https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/ <br /> 
 
+An overview of deep-learning based object-detection algorithms: https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93 <br />
+
 ## Code
 
 Tensorflow Object Detection API: https://www.tensorflow.org/lite/models/object_detection/overview https://github.com/tensorflow/models/tree/master/research/object_detection <br />  
