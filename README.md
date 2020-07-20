@@ -52,4 +52,12 @@ Faster R-CNN for Open Images Dataset by Keras (Highly Highly Recommended): https
 Faster RCNN/ Mask-RCNN on COCO TF (Highly Recommended): https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN \ 
 Py-Faster RCNN (Higly Recommended): https://github.com/rbgirshick/py-faster-rcnn/tree/master/lib/rpn \ 
 
+## Simple Implementations (Higly Recommended)
+
+Faster R-CNN: https://github.com/jwyang/faster-rcnn.pytorch <br /> 
+Simple Faster R-CNN Pytorch: https://github.com/chenyuntc/simple-faster-rcnn-pytorch <br /> 
+Py-Faster R-CNN (Caffe): https://github.com/rbgirshick/py-faster-rcnn <br /> 
+
+
+
 
